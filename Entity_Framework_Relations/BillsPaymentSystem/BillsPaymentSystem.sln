@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillsPaymentSystem.Models", "BillsPaymentSystem.Models\BillsPaymentSystem.Models.csproj", "{9BCC0DE4-1F15-456D-9BE5-C891CD8640FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillsPaymentSystem.Data", "BillsPaymentSystem.Data\BillsPaymentSystem.Data.csproj", "{5FAF248F-CF7D-4C7B-B483-7E90E5B73642}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BillsPaymentSystem.ConsoleClient", "BillsPaymentSystem.ConsoleClient\BillsPaymentSystem.ConsoleClient.csproj", "{06C2FF56-A50C-4777-BF42-19FCA7DE2B9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BCC0DE4-1F15-456D-9BE5-C891CD8640FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCC0DE4-1F15-456D-9BE5-C891CD8640FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCC0DE4-1F15-456D-9BE5-C891CD8640FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCC0DE4-1F15-456D-9BE5-C891CD8640FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FAF248F-CF7D-4C7B-B483-7E90E5B73642}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FAF248F-CF7D-4C7B-B483-7E90E5B73642}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FAF248F-CF7D-4C7B-B483-7E90E5B73642}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FAF248F-CF7D-4C7B-B483-7E90E5B73642}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C2FF56-A50C-4777-BF42-19FCA7DE2B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C2FF56-A50C-4777-BF42-19FCA7DE2B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C2FF56-A50C-4777-BF42-19FCA7DE2B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C2FF56-A50C-4777-BF42-19FCA7DE2B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
